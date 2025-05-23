@@ -1,72 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A passionate Full-Stack Web Developer</h3>
+# 💫 About Me:
+:<br><br>👋 About Me<br>Hi, I’m Mohammadreza Haidari —a passionate Full-Stack Developer who loves crafting seamless and scalable web applications.<br><br>🚀 Skills & Technologies<br>Frontend: JavaScript, Next.js, Tailwind CSS<br>Backend: Node.js, Python, Django<br>Database & Caching:Sql, Postgresql, Mongodb, Redis<br>DevOps & Tools: Docker, Linux, Git<br>🛠️ What I Do<br>Build modern, responsive, and accessible web applications.<br>Design and implement RESTful APIs and server-side applications.<br>Optimize workflows and deployments using Docker and Linux.<br>Continuously explore and integrate emerging tech into my projects.<br>🌟 Why I Code<br>I'm driven by curiosity and the joy of solving complex problems. Whether it's a sleek user interface or an efficient backend system, I aim to create impactful solutions.<br><br>💡 Fun Fact<br>When I’m not coding, I enjoy learning new languages.<br><br>Let’s connect and build something amazing together! 🚀<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Web+Developer;Python+Django+Expert;Next.js+&+Tailwind+Lover;Let's+build+great+apps!&center=true&width=500&height=45">
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammadreza-haidari) 
 
-## 🧑‍💻 About Me
-
-- 💼 I'm currently building a full-featured **Learning Management System (LMS)**  
-- 🛒 I recently completed an **E-commerce web app** with Next.js + Django  
-- 🌱 Currently exploring advanced **design patterns in Django** and **state management with Redux & Zustand**  
-- 📫 Reach me at: `your.email@example.com`  
-- ⚡ Fun fact: I love turning complex backend logic into elegant UI!
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohammad0087&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammad0087&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad0087&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mohammad0087&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Tech Stack
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=zoo&logoColor=white)
-
-**Databases & Tools**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📌 Pinned Projects
-
-<a href="https://github.com/mohammad0087/lms-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad0087&repo=lms-project&theme=radical" />
-</a>
-
-<a href="https://github.com/mohammad0087/ecommerce-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad0087&repo=ecommerce-shop&theme=radical" />
-</a>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad0087&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad0087&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-  <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-
----
-
-<p align="center">
-  🚀 *Let's build something amazing together.*
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
