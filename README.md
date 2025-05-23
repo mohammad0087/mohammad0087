@@ -34,10 +34,10 @@
 
 ## 🔥 Featured Projects
 
-🚀 **[Learning Management System (LMS)](https://github.com/mohammad0087/lms-project)**  
+🚀 **[Learning Management System (LMS)](https://frontend-lms-837l.vercel.app/)**  
 A full-featured LMS built with Django and Next.js for managing courses, users, payments, and more.
 
-🛒 **[E-commerce Shop](https://github.com/mohammad0087/ecommerce-shop)**  
+🛒 **[E-commerce Shop](https://rose-shop-sepia.vercel.app/)**  
 Modern e-commerce platform with user authentication, shopping cart, order management, and Stripe integration.
 
 ---
@@ -52,8 +52,8 @@ Modern e-commerce platform with user authentication, shopping cart, order manage
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammadreza-haidari)  
-📫 **Email:** haidari.m.dev@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammadreza-haidari)  
+📫 **Email:** mohammadreza.heidary2210@gmai.com
 
 ---
 
