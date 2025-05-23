@@ -53,7 +53,7 @@ Modern e-commerce platform with user authentication, shopping cart, order manage
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammadreza-haidari)  
-📫 **Email:** mohammadreza.heidary2210@gmai.com
+📫 **Email:** mohammadreza.heidary2210@gmail.com
 
 ---
 
