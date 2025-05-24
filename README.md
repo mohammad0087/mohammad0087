@@ -7,12 +7,13 @@
 📫 **Email:** mohammadreza.heidary2210@gmail.com
 
 ## 🔥 Featured Projects
+🛒 **[E-commerce Shop](https://rose-shop-sepia.vercel.app/)**  
+Modern e-commerce platform with user authentication, shopping cart, order management, and Stripe integration.
 
 🚀 **[Learning Management System (LMS)](https://frontend-lms-837l.vercel.app/)**  
 A full-featured LMS built with Django and Next.js for managing courses, users, payments, and more.
 
-🛒 **[E-commerce Shop](https://rose-shop-sepia.vercel.app/)**  
-Modern e-commerce platform with user authentication, shopping cart, order management, and Stripe integration.
+
 
 ---
 # 💻 Tech Stack:
