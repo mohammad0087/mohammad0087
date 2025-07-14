@@ -7,6 +7,9 @@
 📫 **Email:** mohammadreza.heidary2210@gmail.com
 
 ## 🔥 Featured Projects
+🏠 **[Kashane Maa (airbnb clone)](https://kashane-frontend.vercel.app/)**  
+A modern Airbnb-like platform built with Django and Next.js that allows users to book, host, and manage unique stays around the world.
+
 🛒 **[E-commerce Shop](https://rose-shop-sepia.vercel.app/)**  
 Modern e-commerce platform with user authentication, shopping cart, order management, and Stripe integration.
 
