@@ -10,10 +10,10 @@
 🏠 **[Kashane Maa (airbnb clone)](https://kashane-frontend.vercel.app/)**  
 A modern Airbnb-like platform built with Django and Next.js that allows users to book, host, and manage unique stays around the world.
 
-🛒 **[E-commerce Shop](https://rose-shop-sepia.vercel.app/)**  
+🛒 **[E-commerce Shop]**  
 Modern e-commerce platform with user authentication, shopping cart, order management, and Stripe integration.
 
-🚀 **[Learning Management System (LMS)](https://frontend-lms-837l.vercel.app/)**  
+🚀 **[Learning Management System (LMS)]**  
 A full-featured LMS built with Django and Next.js for managing courses, users, payments, and more.
 
 
